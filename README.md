@@ -16,9 +16,9 @@
   <a href="https://www.last.fm/user/camomiIIe"><img src="https://img.shields.io/badge/Last.fm-241C49?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm" /></a>
 </p>
 
-I design how digital products move, feel, and respond. Since 2014 I have worked across UX/UI, motion, and illustration, with the eye of a product designer and the rigor of a front-end developer. I am currently a Product & Motion Designer at [Itaú Unibanco](https://github.com/itau).
+Designing since 2014 across UX/UI, motion, and illustration, with the eye of a product designer and the hands-on rigor of a front-end developer.
 
-My work lives where usability meets visual value: microinteractions, prototypes, and design systems that stay consistent as teams grow. I care deeply about accessibility and diversity in UX, and about interfaces that feel like they were made for the people who use them.
+I focus on visual, motion, and systems that connect usability to visual value: microinteractions, prototypes, and design systems that stay consistent as teams grow. I care deeply about accessibility and diversity in UX.
 
 ## ✨ What I do
 
