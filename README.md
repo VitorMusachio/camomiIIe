@@ -89,6 +89,6 @@ Music shapes how I think about rhythm and timing, and it is always playing while
 
 ## 🤝 Working together
 
-Alongside my full-time role, I take on a small number of freelance projects and I am open to new opportunities: motion design and Lottie animation, illustration and illustration systems, design systems, and interactive prototyping. I work remotely from São Paulo, with working hours that overlap with both the Americas and Europe.
+Alongside my full-time role, I take on a few freelance projects: motion and Lottie animation, illustration systems, design systems, and interactive prototyping. Remote from São Paulo, with hours that overlap the Americas and Europe.
 
-Got a project? Let's talk. Write to [camicristdosantos@gmail.com](mailto:camicristdosantos@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/camilasantos1294/).
+Got a project? *Let's talk.* Message me on [LinkedIn](https://www.linkedin.com/in/camilasantos1294/) or see more at [camomille-artwork.com](https://camomille-artwork.com).
