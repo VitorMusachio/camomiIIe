@@ -30,10 +30,10 @@ I focus on visual, motion, and systems that connect usability to visual value: m
 ## 🏢 Where I work
 
 <p>
-  <a href="https://github.com/itau"><img src="./profile/org-itau.png" align="left" width="48" height="48" alt="Itaú Unibanco logo" /></a>
+  <a href="https://github.com/itau"> `` &lt;img src="./profile/org-itau.svg" align="left" width="48" height="48" alt="Itaú Unibanco logo" /&gt; ``</a>
   <strong><a href="https://github.com/itau">Itaú Unibanco</a></strong>
   <br />
-  Product & Motion Designer, crafting interfaces and motion for digital banking products.
+  Product & Motion Designer.
 </p>
 
 <br clear="left" />
