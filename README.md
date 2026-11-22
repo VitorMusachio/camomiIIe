@@ -1,10 +1,12 @@
 <p align="center">
-  <a href="https://camomille-artwork.com"><img src="./profile/banner.svg" width="100%" alt="camomille: I design how products move, feel, and respond." /></a>
+  <a href="https://camomille-artwork.com"> `` &lt;img src="./profile/banner.svg" width="100%" alt="camomille artwork" /&gt; ``</a>
 </p>
 
 <h1 align="center">Camila Santos · camomille</h1>
 
-<h3 align="center">Product & Motion Designer · São Paulo, Brazil (UTC−3)</h3>
+<h3 align="center">I design how products <em>move</em>, <em>feel</em>, and <em>respond</em>.</h3>
+
+<p align="center">Product & Motion Designer · São Paulo, Brazil</p>
 
 <p align="center">
   <a href="https://camomille-artwork.com"><img src="https://img.shields.io/badge/Portfolio-E91E8C?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
