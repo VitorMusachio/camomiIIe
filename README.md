@@ -41,12 +41,8 @@ I focus on visual, motion, and systems that connect usability to visual value: m
 ## 🚀 Selected work
 
 <p align="center">
-  <a href="https://camomille-artwork.com/work/rd-station"><img src="./profile/pin-rd-station.svg" width="400" alt="Motion Design Style Guide, RD Station" /></a>
-  <a href="https://camomille-artwork.com/work/will-bank"><img src="./profile/pin-will-bank.svg" width="400" alt="Brazilian Identity, Will Bank" /></a>
-</p>
-<p align="center">
-  <a href="https://camomille-artwork.com"><img src="./profile/pin-unholy-women.svg" width="400" alt="Unholy Women, coming soon" /></a>
-  <a href="https://github.com/camomiIIe/portfolio-camomille"><img src="./profile/pin-portfolio-camomille.svg" width="400" alt="portfolio-camomille" /></a>
+  <a href="https://camomille-artwork.com/work/rd-station"> ` &lt;img src="./profile/pin-rd-station.svg" width="400" alt="Motion Design Style Guide, RD Station" /&gt; `</a>
+  <a href="https://github.com/camomiIIe/portfolio-camomille"> `` &lt;img src="./profile/pin-portfolio-camomille.svg" width="400" alt="portfolio-camomille" /&gt; ``</a>
 </p>
 
 - **[Motion Design Style Guide](https://camomille-artwork.com/work/rd-station), RD Station (2021).** RD's new brand had style guides for UI, illustration, and graphics, but none for motion. I translated its five brand attributes into a motion language that any designer on the team could pick up, and it outlived the rebrand itself.
