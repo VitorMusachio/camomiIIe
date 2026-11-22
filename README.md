@@ -81,7 +81,7 @@ I focus on visual, motion, and systems that connect usability to visual value: m
 
 ## 🎧 On repeat
 
-Music shapes how I think about rhythm and timing, and it is always playing while I work.
+Rhythm and timing start with what's playing. Here's what I've been listening to:
 
 <p align="center">
   <a href="https://www.last.fm/user/camomiIIe"> `` &lt;img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=camomiIIe&theme=dark&bg_color=241C49&text_color=FFFFFF&artist_color=FFD44A&meta_color=B9B6D3&accent_color=E91E8C&loved_color=E91E8C&logo_color=FFFFFF&loved=title&stats=block&count=3&width=800" alt="Recently played on Last.fm" /&gt; ``</a>
