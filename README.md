@@ -45,10 +45,8 @@ I focus on visual, motion, and systems that connect usability to visual value: m
   <a href="https://github.com/camomiIIe/portfolio-camomille"> `` &lt;img src="./profile/pin-portfolio-camomille.svg" width="400" alt="portfolio-camomille" /&gt; ``</a>
 </p>
 
-- **[Motion Design Style Guide](https://camomille-artwork.com/work/rd-station), RD Station (2021).** RD's new brand had style guides for UI, illustration, and graphics, but none for motion. I translated its five brand attributes into a motion language that any designer on the team could pick up, and it outlived the rebrand itself.
-- **[Brazilian Identity](https://camomille-artwork.com/work/will-bank), Will Bank (2022).** An illustration and motion system for a bank app with no visual identity of its own. Grounded in research with the team and clients (88.6% of respondents did not feel represented by how other local apps portray Brazilian culture), it uses the brand's circle as a visual stage, an expanded skin-tone and hair palette, and four illustration categories.
-- **Unholy Women (coming soon).** A personal illustration series exploring female iconography through a queer, contemporary lens.
-- **[portfolio-camomille](https://github.com/camomiIIe/portfolio-camomille).** My portfolio, designed and built by me. Astro 5, MDX case studies, handcrafted CSS with design tokens, and Lottie for motion.
+- **[Motion Design Style Guide](https://camomille-artwork.com/work/rd-station), RD Station (2021).** Turning a brand book into a shared motion language, so any designer on the team could ship work that felt unmistakably RD. Five brand attributes, five motion behaviors, one reference for everyone.
+- **[portfolio-camomille](https://github.com/camomiIIe/portfolio-camomille).** My portfolio, designed and built by me. Astro, MDX case studies, handcrafted CSS with design tokens, and Lottie for motion.
 
 ## 🛠️ Toolkit
 
